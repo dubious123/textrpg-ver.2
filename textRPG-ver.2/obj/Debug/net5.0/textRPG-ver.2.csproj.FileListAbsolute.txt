@@ -1,0 +1,16 @@
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\bin\Debug\net5.0\textRPG-ver.2.exe
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\bin\Debug\net5.0\textRPG-ver.2.deps.json
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\bin\Debug\net5.0\textRPG-ver.2.runtimeconfig.json
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\bin\Debug\net5.0\textRPG-ver.2.runtimeconfig.dev.json
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\bin\Debug\net5.0\textRPG-ver.2.dll
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\bin\Debug\net5.0\ref\textRPG-ver.2.dll
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\bin\Debug\net5.0\textRPG-ver.2.pdb
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\textRPG-ver.2.csproj.AssemblyReference.cache
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\textRPG-ver.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\textRPG-ver.2.AssemblyInfoInputs.cache
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\textRPG-ver.2.AssemblyInfo.cs
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\textRPG-ver.2.csproj.CoreCompileInputs.cache
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\textRPG-ver.2.dll
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\ref\textRPG-ver.2.dll
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\textRPG-ver.2.pdb
+C:\Users\한종훈\Dropbox\프로그래밍\인프런\text-rpg-ver.2\textRPG-ver.2\textRPG-ver.2\obj\Debug\net5.0\textRPG-ver.2.genruntimeconfig.cache
