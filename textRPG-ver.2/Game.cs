@@ -128,6 +128,7 @@ namespace textRPG_ver._2
                 if (player.IsDead()) 
                 {
                     Console.WriteLine("패배했습니다!");
+                    mode = GameMode.Lobby;
                     break; 
                 }
             }
